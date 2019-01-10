@@ -1,2 +1,3 @@
 # CM_plot_loop
 Create a series of plots for different critical materials 
+For Erins CM project, also trying to get used to using git....
